@@ -9,7 +9,7 @@
 ## Courses Progress
 - **Managing Packages with NPM:** 10/10
 - **Basic Node and Express:** 12/12
-- **MongoDB and Mongoose:** 1/12
+- **MongoDB and Mongoose:** 12/12
 - **Back End Development and APIs Projects:** 0/5
 
 # 📚 Courses List
